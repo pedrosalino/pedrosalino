@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pedrosalino
 - 👀 I’m interested in smarthome
 - 🌱 I’m currently learning java
-- 📫 How to reach me pedro.salino@t-online.de
+- 📫 How to reach me ep-seidel@htp.email
 
 <!---
 pedrosalino/pedrosalino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
